@@ -1,0 +1,2 @@
+rootProject.name='P11-My Data Book'
+include ':app'
